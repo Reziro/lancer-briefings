@@ -106,7 +106,7 @@ export default {
           "code": "8c2f582c-11a9-4930-8004-5c51ad5b8a7f.Adrian.Gallagher:8c2f582c-11a9-4930-8004-5c51ad5b8a7f//NDL-C-THIRD-SKY",
           "corpro": "SSC",
           "frame": "Swallowtail",
-          "mech": "Divorced From Reason"
+          "mech": "Goodbye Kiss"
         },
         {
           "callsign": "Longshot",
