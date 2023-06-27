@@ -1,5 +1,13 @@
-Raised by a single father, Marlene grew up in a small town on the outskirts of civilization on Enceladus. All throughout her young adult life, she excelled in her academics and loved to tinker with all sorts of robotics. During her time in High School she met the love of her life, Daniel Gatsby, where they bonded over their love of mechs and frames. Shortly after they graduated they married and made a life together working as mechanics for a smalltime mercenary group. As they grew older the idea of starting a family started to become more enticing but they soon found that Marlene was incapable of producing offspring. The two were devastated but after a few months of hardship they realized they only needed each other to be happy. 4 years ago Daniel was killed during an away mission with the Mercenary group leaving Marlene heartbroken. Soon after she left the group. She spent the next 3 years secluded on Io working in a small garage until she was approached by the Mirrorsmoke Mercenary Company. Originally she ignored their offer but she soon started to realize how much she missed tinkering and piloting mechs. Thinking Daniel probably wouldn't want her to ignore her passion and sulk for the rest of her life she took the offer and joined the Company.
+**Adrian Gallagher** was born on the planet **Sanjak** long after the revolution had finished. His parents were involved in the ongoing project to fully free Sanjak from the threat of the **House of Stone**. While growing up Adrian was taught various disciplines and became well versed in computer science and engineering.
 
-## Trivia
+Alongside his childhood friend **Jesse Williams** Adrian hitched a ride on a **House of Water** vessel that had managed to slip through the blockade. Shortly after exiting the atmosphere of the planet the ship was destroyed and lifepods were jettisoned. Adrian drifted through space in his pod until long after the oxygen had depleted. When he was revived on a Union ship parts of his body had been replaced with mechanical components as flesh printing was deemed to be too time consuming for the emergency operation. **The new lungs felt right** and with that Adrian realized what he was missing.
 
-* Is not a nerd like the rest of y'all
+As part of **Revolutionary Squad** Aces takes the role of **NHP Specialist and Recon**. As most of his enhancements are a mix of homebrew or SSC tech it only makes sense that he prefers to pilot **Smith Shimano Corpro Frames**. Aces does his best in **target rich environments** where his long range hacking can cause untold chaos.
+
+---
+
+- Childhood friend of Jesse
+- Transhumanism brought on by his own death
+- Team's resident hacker
+- Likes having multiple targets
+- Listens to a lot of New Bass electronic music
