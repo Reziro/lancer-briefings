@@ -93,6 +93,21 @@ export default {
       "current_md": "",
       "events": "",
       "missions": [
+		{
+		  "slug": "1",
+		  "name": "Bug Hunt",
+		  "status": "success"
+		},
+		{
+		  "slug": "2",
+		  "name": "Vigilant Gaze",
+		  "status": "success"
+		},
+		{
+		  "slug": "3",
+		  "name": "Floodgate",
+		  "status": "success"
+		},
         {
           "slug": "4B",
           "name": "Rallying Cry",
