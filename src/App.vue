@@ -111,7 +111,7 @@ export default {
         {
           "slug": "4B",
           "name": "Rallying Cry",
-          "status": "partial success"
+          "status": "success"
         },
 		{
 		  "slug": "4BA",
