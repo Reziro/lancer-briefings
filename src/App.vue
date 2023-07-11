@@ -4,10 +4,10 @@
     <section class="section-container" id="missions" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
-        <h1>Mission Log</h1>
+        <h1>CRISIS</h1>
       </div>
       <div class="section-content-container">
-        <h3>Current Assignment</h3>
+        <h3>WE WILL ALL DIE</h3>
         <Markdown :source="current_md" class="markdown" />
         <h3>Mission List</h3>
         <div class="mission-list-container">
@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "4B",
+      "mission_slug": "4BA",
       "current_md": "",
       "events": "",
       "missions": [
@@ -111,8 +111,13 @@ export default {
         {
           "slug": "4B",
           "name": "Rallying Cry",
-          "status": "start"
+          "status": "success"
         },
+		{
+		  "slug": "4BA",
+		  "name": "ABBADON",
+		  "status": "start"
+		},
       ],
       "pilots": [
         {
@@ -150,14 +155,14 @@ export default {
       ],
       "header": {
         "planet": "Hercynia",
-        "year": "5014u",
+        "year": "4501u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "Union",
-        "headerSubtitle": "Auxiliary Corps",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Revolutionaries",
+        "headerSubtitle": "Second Commity",
+        "subheaderTitle": "CRISIS",
+        "subheaderSubtitle": "YOUARESAFE",
       },
       "options":{
         "eventsMarkdownPerMission": true
