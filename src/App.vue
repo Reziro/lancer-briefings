@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "4B",
+      "mission_slug": "CRISIS",
       "current_md": "",
       "events": "",
       "missions": [
@@ -108,11 +108,16 @@ export default {
 		  "name": "Floodgate",
 		  "status": "success"
 		},
-        {
-          "slug": "4B",
-          "name": "Rallying Cry",
-          "status": "start"
-        },
+    {
+      "slug": "4B",
+      "name": "Rallying Cry",
+      "status": "partial-success"
+    },
+    {
+      "slug": "CRISIS",
+      "name": "ABADDON",
+      "status": "start"
+    }
       ],
       "pilots": [
         {
