@@ -1,1 +1,1 @@
-<span style="font-size:7em;">SURVIVE</span>
+#SURVIVE
