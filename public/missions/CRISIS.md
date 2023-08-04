@@ -1,1 +1,1 @@
-<font size= "7"> SURVIVE</font>
+<span style="font-size:7em;">SURVIVE</span>
