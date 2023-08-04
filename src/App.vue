@@ -108,16 +108,16 @@ export default {
 		  "name": "Floodgate",
 		  "status": "success"
 		},
-        {
-          "slug": "4B",
-          "name": "Rallying Cry",
-          "status": "partial-success"
-        },
-		{
-		  "slug": "CRISIS"
-		  "name": "ABBADON"
-		  "status": "start"
-		},
+    {
+      "slug": "4B",
+      "name": "Rallying Cry",
+      "status": "partial-success"
+    },
+    {
+      "slug": "CRISIS",
+      "name": "ABADDON",
+      "status": "start"
+    }
       ],
       "pilots": [
         {
