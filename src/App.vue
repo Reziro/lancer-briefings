@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "4B",
+      "mission_slug": "CRISIS",
       "current_md": "",
       "events": "",
       "missions": [
@@ -111,8 +111,13 @@ export default {
         {
           "slug": "4B",
           "name": "Rallying Cry",
-          "status": "start"
+          "status": "partial-success"
         },
+		{
+		  "slug": "CRISIS"
+		  "name": "ABBADON"
+		  "status": "start"
+		},
       ],
       "pilots": [
         {
